@@ -1,4 +1,4 @@
-# Projects
+# Projects in Production
 
 | Project | Link | Role |
 |---------|------|------|
@@ -7,6 +7,7 @@
 | Georgia Business & Residential Law | [georgiabusinessandresidentiallaw.ge](https://georgiabusinessandresidentiallaw.ge/) | Fullstack |
 | GBRL — Staff Recruiting | [georgiabusinessandresidentiallawrecruiting.ge](https://georgiabusinessandresidentiallawrecruiting.ge/) | Fullstack |
 | GBRL — India | [indiageorgiabusinessandresidentiallaw.in](https://indiageorgiabusinessandresidentiallaw.in/) | Fullstack |
+| GBRL — Europe | [eurogeorgiabusinessandresidentiallaw.eu](https://eurogeorgiabusinessandresidentiallaw.eu/) | Fullstack |
 | Staff Resources Group Norway AS | [srgn.no](https://srgn.no/ ) | Fullstack |
 | MyEmpire | [myempire.com](https://myempire.com/) | Frontend |
 | OnlySpins | [onlyspins.com](https://onlyspins.com/) | Frontend |
@@ -20,3 +21,4 @@
 | Routine Automation | [routine-automation.com](https://routine-automation.com/) | Fullstack |
 | T-22 | [t-22.com](https://t-22.com/) | Fullstack |
 | University UniLevel | [unilevel.ge](https://unilevel.ge/) | Fullstack |
+| EastWay | [eastwayholdings.com](https://eastwayholdings.com/) | Fullstack |

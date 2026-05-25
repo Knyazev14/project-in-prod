@@ -12,8 +12,9 @@
 | Robocat | [robocat.com](https://robocat.com/) | Frontend |
 | SGCasino | [sgcasino.com](https://sgcasino.com/) | Frontend |
 | Neon54 | [neon54.com](https://neon54.com/) | Frontend |
-| Bankonbet | [bankonbet.com]((https://bankonbet.com/)) | Frontend |
+| Bankonbet | [bankonbet.com]((https://bankonbet.com/) | Frontend |
 | Ninja Kitchen Georgia | [ninjakitchen.ge](https://ninjakitchen.ge/) | Fullstack |
+| Ninja Kitchen Georgia | [dyson.ge](https://dyson.ge/) | Fullstack |
 | SPES Consulting | [spes.lv](https://spes.lv/) | Fullstack |
 | Routine Automation | [routine-automation.com](https://routine-automation.com/) | Fullstack |
 | T-22 | [t-22.com](https://t-22.com/) | Fullstack |
